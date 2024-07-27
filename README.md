@@ -1,6 +1,6 @@
 # README #
 
-#### This repository contains modified Marlin firmware for converting a Creality Ender-3 3D printer with V4.2.7 board into a Personal Automated Liquid Handler (PALH).####
+#### This repository contains modified Marlin firmware for converting a Creality Ender-3 3D printer with V4.2.7 board into a Personal Automated Liquid Handler (PALH).
 
 The firmware modifications enable the printer to function both as a 3D printer for producing necessary parts and as a specialized liquid handling system.
 
